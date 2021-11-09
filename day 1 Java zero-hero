@@ -1,0 +1,10 @@
+Compliers and interpreters are programs that help convert the high level language (Source Code) into machine language so that machine can understand.
+Computers cannot understand high level languages as we do.
+So there comes the roll of Compilers And Interpreters.
+To convert High level language to Machine language(binary code)
+Interpreters                                                                                             Compilers
+> Interpreter translates just one statement of the program at a time into machine code.                  > Compiler scans the entire program and translates the whole of it into 
+                                                                                                           machine code at once.
+> An interpreter takes very less time to analyze the source code. However, the overall time              > A compiler takes a lot of time to analyze the source code. However, 
+ to execute the process is much slower.                                                                    the overall time taken to execute the process is much faster.
+ 
